@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demomvp/static/css/main.e6c13ad2.css",
+    "main.js": "/demomvp/static/js/main.a6492d75.js",
+    "index.html": "/demomvp/index.html",
+    "main.e6c13ad2.css.map": "/demomvp/static/css/main.e6c13ad2.css.map",
+    "main.a6492d75.js.map": "/demomvp/static/js/main.a6492d75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a6492d75.js"
+  ]
+}
